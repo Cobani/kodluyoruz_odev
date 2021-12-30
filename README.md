@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-# kodluyoruz_odev
-=======
-# scrumpoker
-This repo is about my free scrum poker website project!
-asd
->>>>>>> master
+# Patika.dev Ödevler
+Bu repo patika.dev üzerinde bulunan ödevler içindir.
