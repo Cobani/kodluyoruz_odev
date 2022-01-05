@@ -24,6 +24,10 @@ nav a:hover, nav a:visited, nav a:link, nav a:active, nav a, nav{
     margin: 0px 5px 30px;
 }
 
+div.vertical-margin{
+    margin: 30px 0px;
+}
+
 .ortala-liste{
     list-style-position: inside;
 }
