@@ -1,0 +1,39 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    width: 90%;
+    margin: auto;
+}
+
+/*img{
+    width: 351px;
+    margin: 10px 0px;
+}*/
+
+div, p{
+    text-align: center;
+}
+
+p, #search-input{
+    display: block;
+    width: 50%;
+    margin: 0px 25%;
+}
+
+
+div#search-bar{
+    background-color: rgb(238, 238, 238);
+}
+
+div.footer{
+    display: inline-block;
+    width: 30%;
+    height: 100px;
+    background-color: mediumseagreen;
+}
+
+.fs-small{
+    font-size: small;
+}
